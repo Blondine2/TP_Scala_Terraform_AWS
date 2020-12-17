@@ -1,0 +1,27 @@
+[debug] Packaging C:\Users\pasca\OneDrive\Bureau\Cours ING3\Pipeline de traitement de données\TwitterApiAuthors\target\scala-2.11\twitterauthors_2.11-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	com
+[debug] 	  C:\Users\pasca\OneDrive\Bureau\Cours ING3\Pipeline de traitement de données\TwitterApiAuthors\target\scala-2.11\classes\com
+[debug] 	com\TwitterApiAuthor
+[debug] 	  C:\Users\pasca\OneDrive\Bureau\Cours ING3\Pipeline de traitement de données\TwitterApiAuthors\target\scala-2.11\classes\com\TwitterApiAuthor
+[debug] 	com\TwitterApiAuthor\TwitterAuthors$$anonfun$1.class
+[debug] 	  C:\Users\pasca\OneDrive\Bureau\Cours ING3\Pipeline de traitement de données\TwitterApiAuthors\target\scala-2.11\classes\com\TwitterApiAuthor\TwitterAuthors$$anonfun$1.class
+[debug] 	com\TwitterApiAuthor\TwitterAuthors$$anonfun$2$$anonfun$apply$1.class
+[debug] 	  C:\Users\pasca\OneDrive\Bureau\Cours ING3\Pipeline de traitement de données\TwitterApiAuthors\target\scala-2.11\classes\com\TwitterApiAuthor\TwitterAuthors$$anonfun$2$$anonfun$apply$1.class
+[debug] 	com\TwitterApiAuthor\TwitterAuthors$$anonfun$2.class
+[debug] 	  C:\Users\pasca\OneDrive\Bureau\Cours ING3\Pipeline de traitement de données\TwitterApiAuthors\target\scala-2.11\classes\com\TwitterApiAuthor\TwitterAuthors$$anonfun$2.class
+[debug] 	com\TwitterApiAuthor\TwitterAuthors$$anonfun$3.class
+[debug] 	  C:\Users\pasca\OneDrive\Bureau\Cours ING3\Pipeline de traitement de données\TwitterApiAuthors\target\scala-2.11\classes\com\TwitterApiAuthor\TwitterAuthors$$anonfun$3.class
+[debug] 	com\TwitterApiAuthor\TwitterAuthors$$anonfun$4.class
+[debug] 	  C:\Users\pasca\OneDrive\Bureau\Cours ING3\Pipeline de traitement de données\TwitterApiAuthors\target\scala-2.11\classes\com\TwitterApiAuthor\TwitterAuthors$$anonfun$4.class
+[debug] 	com\TwitterApiAuthor\TwitterAuthors$$anonfun$5.class
+[debug] 	  C:\Users\pasca\OneDrive\Bureau\Cours ING3\Pipeline de traitement de données\TwitterApiAuthors\target\scala-2.11\classes\com\TwitterApiAuthor\TwitterAuthors$$anonfun$5.class
+[debug] 	com\TwitterApiAuthor\TwitterAuthors$$anonfun$main$1$$anonfun$apply$2.class
+[debug] 	  C:\Users\pasca\OneDrive\Bureau\Cours ING3\Pipeline de traitement de données\TwitterApiAuthors\target\scala-2.11\classes\com\TwitterApiAuthor\TwitterAuthors$$anonfun$main$1$$anonfun$apply$2.class
+[debug] 	com\TwitterApiAuthor\TwitterAuthors$$anonfun$main$1.class
+[debug] 	  C:\Users\pasca\OneDrive\Bureau\Cours ING3\Pipeline de traitement de données\TwitterApiAuthors\target\scala-2.11\classes\com\TwitterApiAuthor\TwitterAuthors$$anonfun$main$1.class
+[debug] 	com\TwitterApiAuthor\TwitterAuthors$.class
+[debug] 	  C:\Users\pasca\OneDrive\Bureau\Cours ING3\Pipeline de traitement de données\TwitterApiAuthors\target\scala-2.11\classes\com\TwitterApiAuthor\TwitterAuthors$.class
+[debug] 	com\TwitterApiAuthor\TwitterAuthors.class
+[debug] 	  C:\Users\pasca\OneDrive\Bureau\Cours ING3\Pipeline de traitement de données\TwitterApiAuthors\target\scala-2.11\classes\com\TwitterApiAuthor\TwitterAuthors.class
+[debug] Done packaging.
